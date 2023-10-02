@@ -1,6 +1,5 @@
 ### Hi there 👋
-### Under construction.
-✨(https://codeium.com/badges/main)✨
+### Under construction. ✨✨
 <!--
 **sqwerlix/Sqwerlix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
