@@ -1,3 +1,4 @@
+// Profit calculator
 package main
 
 import (
@@ -17,9 +18,7 @@ func main() {
 	fmt.Scan(&taxRate)
 
 	ebt := revenue - expenses
-	Profit := ebt * (1 - taxRate/100)
-	ratio := ebt / Profit
-	fmt.Println("EBT: ", ebt)
-	fmt.Println("Ratio: ", ratio)
-	fmt.Println("Profit: ", Profit)
+	profit := ebt * (1 - taxRate/100)
+	ratio := ebt / profit
+	fmt.Printf("ETB: %v\nRatio: %v\nProfit: %v\n", ebt, ratio, profit)
 }
